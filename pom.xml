@@ -47,12 +47,12 @@
         <repository>
       <id>deployment</id>
         <name>Internal Realese</name>
-      <url>http://your-host:8081/repository/maven-releases/</url>
+      <url>http://localhost:8081/repository/SAMPLE-REL/</url>
     </repository>
     <snapshotRepository>
       <id>deployment</id>
         <name>Internal Snapshot Releases</name>
-      <url>http://your-host:8081/repository/maven-snapshots/</url>
+      <url>http://localhost:8081/repository/SAMPLE-SNAP/</url>
     </snapshotRepository>    
   </distributionManagement>
     <dependencies>
