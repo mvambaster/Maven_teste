@@ -21,11 +21,11 @@
 			    <version>2.3</version>
 			    <extensions>false</extensions>
                 <executions>
-                    <execution>
+                    <!--execution>
                         <phase>package</phase>
                         <goals>
                             <goal>shade</goal>
-                        </goals>
+                        </goals-->
                         <configuration>
                             <transformers>
                                 <transformer>
