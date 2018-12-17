@@ -48,7 +48,7 @@
         <repository>
             <id>deployment</id>
             <name>Internal Releases</name>
-            <url>http://nexuscalhost:8081/repository/maven-releases/</url>            
+            <url>http://nexus:8081/repository/maven-releases/</url>            
         </repository>        
         <snapshotRepository>
             <id>deployment</id>
