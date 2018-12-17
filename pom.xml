@@ -24,7 +24,7 @@
                     <execution>
                         <phase>package</phase>
                         <goals>
-                            <goal>war</goal>
+                            <goal>prepare-package</goal>
                         </goals>
                         <configuration>
                             <transformers>
