@@ -24,7 +24,7 @@
                     <execution>
                         <phase>package</phase>
                         <goals>
-                            <goal>compile</goal>
+                            <goal>inplance</goal>
                         </goals>
                         <configuration>
                             <transformers>
