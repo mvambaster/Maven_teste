@@ -41,12 +41,12 @@
         <repository>
             <id>deployment</id>
             <name>Internal Releases</name>
-            <url>http://nexus:8081/repository/maven-releases/</url>            
+            <url>http://localhost:8081/repository/maven-releases/</url>            
         </repository>        
         <snapshotRepository>
             <id>deployment</id>
             <name>Internal Releases Snapshot</name>
-            <url>http://nexus:8081/repository/maven-snapshots/</url>            
+            <url>http://localhost:8081/repository/maven-snapshots/</url>            
         </snapshotRepository>
     </distributionManagement>
 </project>
