@@ -24,7 +24,7 @@
                     <execution>
                         <phase>package</phase>
                         <goals>
-                            <goal>prepare-package</goal>
+                            <goal>inplace/goal>
                         </goals>
                         <configuration>
                             <transformers>
