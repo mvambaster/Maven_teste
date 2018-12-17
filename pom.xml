@@ -23,9 +23,7 @@
                 <executions>
                     <execution>
                         <phase>package</phase>
-                        <goals>
-                            <goal></goal>
-                        </goals>
+                        
                         <configuration>
                             <transformers>
                                 <transformer>
