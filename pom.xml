@@ -24,7 +24,7 @@
                     <execution>
                         <phase>package</phase>
                         <goals>
-                            <goal>shade</goal>
+                            <goal>war</goal>
                         </goals>
                         <configuration>
                             <transformers>
@@ -48,7 +48,7 @@
         <repository>
             <id>deployment</id>
             <name>Internal Releases</name>
-            <url>http://localhost:8081/repository/maven-releases/</url>            
+            <url>http://nexuscalhost:8081/repository/maven-releases/</url>            
         </repository>        
         <snapshotRepository>
             <id>deployment</id>
