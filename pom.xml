@@ -24,7 +24,7 @@
                     <execution>
                         <phase>package</phase>
                         <goals>
-                            <goal>inplance</goal>
+                            <goal>inplace</goal>
                         </goals>
                         <configuration>
                             <transformers>
