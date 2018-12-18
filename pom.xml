@@ -54,13 +54,6 @@
 							 <goals>
 							    <goal>deploy</goal>
 							 </goals>
-						      </execution>
-						   </executions>
-						   <configuration>
-						      <serverId>localNexus</serverId>
-						      <nexusUrl>http://localhost:8081/>
-						      <skipStaging>true</skipStaging>
-						   </configuration>
 						</plugin>
 	    </plugins>            
     </build>
