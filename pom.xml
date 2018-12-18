@@ -58,7 +58,7 @@
 						   </executions>
 						   <configuration>
 						      <serverId>localNexus</serverId>
-						      <nexusUrl>http://nexus:8081/>
+						      <nexusUrl>http://localhost:8081/>
 						      <skipStaging>true</skipStaging>
 						   </configuration>
 						</plugin>
