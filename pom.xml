@@ -22,10 +22,9 @@
 			    <extensions>false</extensions>
                 <executions>
                     <execution>
-			 <id>default-deploy</id>
-			 <phase>deploy</phase>
+                        <phase>package</phase>
                         <goals>
-                            <goal>deploy</goal>
+                            <goal>inplace</goal>
                         </goals>
                         <configuration>
                             <transformers>
