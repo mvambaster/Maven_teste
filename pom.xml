@@ -15,11 +15,11 @@
 
     <build>
         <plugins>
-            <dependency>
+            <dependenciay>
             <groupId>org.apache.maven.plugins</groupId>
             <artifactId>maven-jar-plugin</artifactId>
             <version>2.4</version>
-        </dependency>
+        </dependencia>
                         <configuration>
                             <transformers>
                                 <transformer>
